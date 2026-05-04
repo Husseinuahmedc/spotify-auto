@@ -1,0 +1,12 @@
+{
+  "morning": {
+    "start": 6,
+    "end": 8,
+    "playlist": "spotify:playlist:5tPIn814xbc2Ze6CbFJ3k6"
+  },
+  "night": {
+    "start": 18,
+    "end": 5,
+    "playlist": "spotify:playlist:04SDqoKRCheSxpNv2QlnP9"
+  }
+}
